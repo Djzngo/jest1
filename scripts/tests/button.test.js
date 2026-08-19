@@ -1,3 +1,7 @@
+/**
+ * @jest-enviroment jsdom
+ */
+
 // This line of code pulls the file that we are going to be testing our JS from
 const buttonClick = require("../button")
 
